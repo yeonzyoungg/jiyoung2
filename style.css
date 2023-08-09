@@ -1,6 +1,6 @@
 body{
   background-color: burlywood;
-  padding-top: 3rem;
+  padding-top: 4.5rem;
   display: flex;
   justify-content: center;
 }
@@ -55,6 +55,7 @@ body{
   outline: none;
   border-radius: 50px;
   font-family: Yeongdeok;
+  font-style: black;
 }
 
 .follow-btn button:hover{
@@ -78,6 +79,7 @@ body{
   outline: none;
   border-radius: 50px;
   font-family: Yeongdeok;
+  font-style: black;
   margin-top: 10px;
 }
 
